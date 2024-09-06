@@ -1,2 +1,2 @@
-# CursoDeTypescript_CFBCursos
-CursoDeTypescript_CFBCursos
+# CursoDeTypescriptCFBCursos
+CursoDeTypescriptCFBCursos
